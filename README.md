@@ -1,7 +1,13 @@
 # Docker-containerizing-app
 
 This example is taken from:
-Pluralsight: Containerizing a Software Application with Docker
+
+Pluralsight: Containerizing a Software Application with Docker.
+
+The example shows how to compile NGINX source code in a container and then extract only the binary.
+
+Then run the NGINX binary with a custom index.html file.
+
 
 # single-stage image build
 Build Docker image:
